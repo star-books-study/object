@@ -1,10 +1,17 @@
-# 혼자하면 안할 거 같으니까 일단 함께하는데 토론은 안하는 북스터디
+# 오브젝트
 
+<img src="https://image.yes24.com/goods/74219491/XL" width="300">
 
-> 시작일 : 2023.07.11
+## 📚 스터디 규칙
 
-- 내용 요약보다는 자신이 알아볼 수 있도록 깨달음 위주로 작성합니다. 
-- 하루에 한 줄이라도 읽고 [노션](https://hello-happy-world.notion.site/c52b47b0b926409687b6f33534433687?pvs=4)에 정리
-- 읽으면서 추가적인 질문이나 의문점 / 여기서 얻은 점 / 따로 찾아본 것 있으면 적기 / 총평 / 애매한 것 정리
+1. 매주 월요일에 시작한다.
+2. 하루에 한 줄이라도 읽기
+    - 패널티 : **`1000원`**
+3. **`매일`** 깃허브에 자신이 읽은 부분 자신의 언어로 정리해서 올리기
+    - 단, 한 챕터를 읽지 않았을 시, **`5000원`**
 
-<img src="https://i.pinimg.com/564x/50/9f/9f/509f9fd84bad8297a5511cd02e300389.jpg" width="400px">
+## ✨ 멤버
+
+| <a href="https://github.com/song-eunju">송은주 | <a href="https://github.com/yel-m"> 정예림 |
+| --- | --- |
+| <img src="https://github.com/Song-EunJu.png" width="100"> | <img src="https://github.com/yel-m.png" width="100"> |
