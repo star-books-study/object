@@ -12,6 +12,6 @@
 
 ## ✨ 멤버
 
-| <a href="https://github.com/song-eunju">송은주 | <a href="https://github.com/yel-m"> 정예림 |
-| --- | --- |
-| <img src="https://github.com/Song-EunJu.png" width="100"> | <img src="https://github.com/yel-m.png" width="100"> |
+| <a href="https://github.com/song-eunju">송은주  |
+| --- | 
+| <img src="https://github.com/Song-EunJu.png" width="100"> |
