@@ -1,6 +1,7 @@
 # 오브젝트
 
-<img src="https://image.yes24.com/goods/74219491/XL" width="300">
+<img src="https://github.com/user-attachments/assets/a8340fec-bc5a-4a23-8f27-0f88c5acbc0e" width="300">
+
 
 ## 📚 스터디 규칙
 
